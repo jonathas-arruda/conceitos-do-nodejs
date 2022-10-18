@@ -25,7 +25,6 @@ yarn
 # executar o projeto
 yarn dev
 ```
-```bash
 # Autor
 
 Jonathas Arruda
