@@ -13,7 +13,7 @@ O projeto se trata de uma API desenvolvida para suportar uma aplicação de list
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: NodeJs e Yarn
+Pré-requisitos: NodeJs, Yarn e Nodemon
 
 ```bash
 # clonar repositório
